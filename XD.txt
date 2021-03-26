@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "is how to use github"
+git branch -M main
+git remote add origin <url>
+git push -u origin main
